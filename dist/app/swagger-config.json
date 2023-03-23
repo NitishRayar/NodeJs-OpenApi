@@ -1,0 +1,18 @@
+{
+    "definition": {
+        "openapi": "3.0.1",
+        "info": {
+            "title": "Rest APi Swagger integration",
+            "version": "1.0.0"
+        },
+        "schemes": ["http"],
+        "servers": [
+            {
+                "url": "http://localhost:3000/"
+            }
+        ]
+    },
+    "apis": [
+        "./dist/app/routes/*.js"
+    ]
+}

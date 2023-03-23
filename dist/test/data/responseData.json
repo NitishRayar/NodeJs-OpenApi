@@ -1,0 +1,33 @@
+{
+    "location": {
+        "name": "Hubli",
+        "region": "Karnataka",
+        "country": "India",
+        "tz_id": "Asia/Kolkata",
+        "localtime": "2023-01-05 20:17"
+    },
+    "weatherInfo": {
+        "temp_c": 22.9,
+        "temp_f": 73.2,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "humidity": 47
+    },
+    "countryInfo": {
+        "name": "India",
+        "capital": "New Delhi",
+        "subregion": "Southern Asia",
+        "region": "Asia",
+        "population": 1380004385,
+        "currencies": [
+            {
+                "code": "INR",
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+        ]
+    }
+}

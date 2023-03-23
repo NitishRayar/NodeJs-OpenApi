@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "query": {
+        "from": "INR",
+        "to": "USD",
+        "amount": 3
+    },
+    "info": {
+        "timestamp": 1672747383,
+        "rate": 0.012058
+    },
+    "date": "2023-01-03",
+    "result": 0.036174
+}
